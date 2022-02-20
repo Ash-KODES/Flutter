@@ -1,2 +1,2 @@
-# FLUTTER
+# Flutter
 PROJECTS ON FLUTTER
